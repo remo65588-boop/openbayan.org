@@ -1,51 +1,26 @@
 ---
-title: LottoLens PH Open Data
-summary: Open, versioned Philippine PCSO draw-schedule data with verification guidance, provenance notes, and a citable DOI.
-description: |
-    LottoLens PH Open Data publishes reusable Philippine Charity Sweepstakes Office
-    draw-schedule data, documentation, citation metadata, and a practical result
-    verification guide. The repository is designed for researchers, journalists,
-    developers, and Filipino users who need transparent source notes and machine-readable
-    files instead of screenshots or prediction claims.
-
-    The project includes CSV resources, CITATION.cff, a CC BY 4.0 license, a Zenodo DOI,
-    and a public methodology report that documents coverage and known limitations.
-
-# Project URLs
-repository: https://github.com/remo65588-boop/lottolens-ph-public-data
-website: https://lottolensph.com/research/pcso-results-data-coverage
-demo: https://lottolensph.com/guides/verify-pcso-results
-
-# Project Details
-license: CC-BY-4.0
+title: LottoLens PH Public PCSO Data
+summary: Source-traceable Philippine PCSO draw schedules and historical results published as reusable open data.
 status: stable
-dateAdded: 2026-08-07
-
-# People
-maintainers:
-    - 'LottoLens PH'
-
-# Categorization
-tags:
-    - open-data
-    - pcso
-    - lottery-results
-    - csv
-    - data-verification
-sectors:
-    - Government
-    - Transparency
-    - Technology
+repoUrl: https://github.com/remo65588-boop/lottolens-ph-public-data
+website: https://remo65588-boop.github.io/lottolens-ph-public-data/
+license: CC BY 4.0
+maintainers: ['LottoLens PH Editorial']
+tags: ['Open Data', 'Public Information', 'Data Verification']
+sectors: ['Government', 'Transparency', 'Technology']
 featured: false
-
-# Social Impact
-impact: |
-    Makes Philippine lottery draw information easier to verify and reuse by publishing
-    documented, versioned data with explicit provenance and limitations. The project
-    supports public-interest research and data literacy without promising predictions or
-    guaranteed outcomes.
+dateAdded: 2026-08-12
+lastUpdated: 2026-08-12
 ---
 
-LottoLens PH Open Data is an independent, community-maintained data publication. It is
-not an official PCSO service and does not provide betting guarantees. Users are encouraged
-to verify current results against official PCSO sources before relying on archived data.
+LottoLens PH Public PCSO Data publishes a reusable draw-schedule table and a
+fixed historical snapshot of 13,457 results across nine Philippine Charity
+Sweepstakes Office games. Each historical row retains a source name and source
+URL, while the package also includes field definitions, Frictionless Data
+metadata, validation notes, citation metadata, and fixed release tags.
+
+The project helps Filipino developers, researchers, journalists, and members of
+the public inspect historical result records without relying on screenshots or
+undocumented copies. It is independently maintained, is not affiliated with
+PCSO, does not predict future results, and directs users to official PCSO
+channels as the final authority.
