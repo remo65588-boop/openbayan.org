@@ -23,4 +23,6 @@ The project helps Filipino developers, researchers, journalists, and members of
 the public inspect historical result records without relying on screenshots or
 undocumented copies. It is independently maintained, is not affiliated with
 PCSO, does not predict future results, and directs users to official PCSO
-channels as the final authority.
+channels as the final authority. Readers can review the
+[coverage and verification methodology](https://lottolensph.com/research/pcso-results-data-coverage)
+before reusing the snapshot.
